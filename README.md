@@ -10,7 +10,6 @@
 
 💡 **AI Engineer | Full-Stack Developer | Automation Enthusiast**  
 🚀 Specialized in **AI Agent Automation**, **Generative AI**, and **Machine Learning Systems**  
-🤖 Creator of advanced AI projects like **Varsh (Voice AI Assistant)** and **Custom Outfits Wear Lookout (AI Outfit Transformer)**  
 🧩 Deep understanding of **Python, DSA, and scalable backend architecture**  
 📊 Experienced in **ML datasets, data pipelines, and intelligent automation**  
 🌐 Passionate about building **end-to-end systems combining AI + Engineering**  
