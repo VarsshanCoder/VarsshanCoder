@@ -29,8 +29,8 @@
   <img src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle" width="70"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50"/> &nbsp;
   <img src="http://images.seeklogo.com/logo-png/34/1/pytorch-logo-png_seeklogo-341270.png" alt="PyTorch" width="50"/> &nbsp;
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*bJZ1yK0wRIoF0hLwEZuPdg.png" alt="LangChain" width="60"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Google_Colaboratory_logo.svg" alt="Google Colab" width="50"/> &nbsp;
+  <img src="https://cdn.zapier.com/storage/developer_cli/bc599c46f533711410a58ff5afa16567.png" alt="LangChain" width="60"/> &nbsp;
+  <img src= "https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="50"/> &nbsp;
 </p>
 
 ---
